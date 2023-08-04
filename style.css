@@ -265,6 +265,7 @@ body {
         font-size: 2.5rem;
         margin-bottom: 2rem;
         font-family: sans-serif;
+        margin-left: 2rem;
 }
 .span {
        display: flex;
@@ -297,8 +298,8 @@ body {
 }
 
 .product img {
-        width: 60rem;
-        height: 40vh;
+        width: 35rem;
+        height: 20vh;
         display: flex;
         justify-content: center;
 }
@@ -322,6 +323,8 @@ body {
 
 .newsletter {
         display: flex;
+        width: 100%
+        overflow-x: visible;
         flex-direction: column;
         justify-content: center;
         align-items: center;
