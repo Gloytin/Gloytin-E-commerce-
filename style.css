@@ -256,6 +256,7 @@ body {
         align-items: center;
         justify-content: center;
         margin-bottom: 2rem;
+        margin-left: 4rem;
 }
 
 .product h1 {
@@ -298,7 +299,7 @@ body {
 }
 
 .product img {
-        width: 35rem;
+        width: 38rem;
         height: 20vh;
         display: flex;
         justify-content: center;
