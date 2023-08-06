@@ -1,3 +1,5 @@
+const cartItemsEl = document.querySelector(".cartItem");
+
 function addToCart(id) {
         if (cartArray.some((item) => item.id === id) ) {
                 changeNumberOfUnits("plus", id)
