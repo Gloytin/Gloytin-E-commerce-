@@ -69,7 +69,7 @@ body {
 }
 
 .search form input[type="search"] {
-        width: 40rem;
+        width: 28rem;
         padding: 1rem 1rem;
         border: 2px solid rgb(191, 176, 176);
         font-size: 1.2rem;
@@ -333,6 +333,7 @@ body {
         margin-bottom: 5rem;
         margin-top: 5rem;
         color: white;
+        margin-left: 4rem;
        
 }
 
