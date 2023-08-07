@@ -37,6 +37,7 @@ function addToCart(id) {
        cartArray.push({
         ...item,
         numberOfUnits : 1,
+ document.querySelector(".cart").style.background = "blue";
        });
         }
         updateCart();
