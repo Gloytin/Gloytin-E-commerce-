@@ -5,7 +5,7 @@ const subtotalEl = document.querySelector(".subtotal");
 function renderProducts() {
         products.forEach( (product) => {
         productsEl.innerHTML += `
-        <div class="product1">
+        <div class="product">
         <img src="${product.imgSrc}">
         <div class="span">
         <p> ${product.name}</p>
