@@ -25,8 +25,9 @@ function renderProducts() {
 </div>
         `
         })
+        renderProducts();
 }
-renderProducts();
+;
 
 
 function addToCart(id) {
