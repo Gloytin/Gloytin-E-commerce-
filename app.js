@@ -24,9 +24,10 @@ function renderProducts() {
                       </svg></button>
 </div>
         `
-        renderProducts();
-        });
+        }) 
+}
 
+renderProducts();
 
 
 
